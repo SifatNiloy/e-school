@@ -13,6 +13,13 @@ h4{
     
 }
 
+.eita1{
+    margin-top: -5px;
+    
+}
+.green-background{
+    background-color:  #f3fdf7;
+}
 h2{
     font-family: poppins;
     font-weight: 900;
@@ -29,11 +36,14 @@ h2{
     width: 60%;
     float: left;
 }
+
 .btn{
     border-style: none;
     background-color: #21B573;
     border-radius: 20px;
+    
 }
+
 .row{
     margin: 0px 20px;
     
@@ -43,6 +53,13 @@ h2{
     border-style: none;
     background-color:  #ffffff ;
     box-shadow: 4px 4px 10px lightgray;
+}
+.card2{
+    
+    border-style: none;
+    background-color:  #ffffff ;
+    box-shadow: 4px 4px 10px lightgray;
+
 }
 .card-img-top-1 {
     width: 30%;
